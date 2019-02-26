@@ -13,6 +13,10 @@ Be sure to check out our repository with development tools on
 <a target="_blank" href="https://github.com/goalgorilla/drupal_social/">
 Github</a>
 
+# Contribute to Open Social
+# how to install
+https://www.drupal.org/docs/8/distributions/open-social/contribute-to-open-social
+
 For any other information be sure to checkout our
 <a target="_blank" href="https://www.drupal.org/docs/8/distributions/open-social">
 Documentation</a>.
